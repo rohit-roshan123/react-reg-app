@@ -48,7 +48,7 @@ export default function Registration() {
               </div>
             </div>
             <div className="col-md-8 py-5 border">
-              <h4 className="pb-4">Please fill with your details</h4>
+              <h4 className="pb-4">Register with your details</h4>
               <form onSubmit={saveReg}>
                 <div className="form-row">
                   <div className="form-group col-md-6">
